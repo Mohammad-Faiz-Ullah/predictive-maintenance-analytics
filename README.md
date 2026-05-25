@@ -135,10 +135,9 @@ because missing machine failures can be operationally costly.
 predictive-maintenance-analytics/
 │
 ├── data/
-├── notebook/
-├── dashboard/
-├── screenshots/
-├── sql/
+├── Notebook/
+├── Dashboard/
+├── Sql queries/
 └── README.md
 ```
 

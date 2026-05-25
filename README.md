@@ -145,7 +145,7 @@ predictive-maintenance-analytics/
 ---
 
 # 🔗 Kaggle Notebook
-[Add your Kaggle notebook link here.](https://www.kaggle.com/code/mfaiz51826/predictive-maintenance-analysis-failure-predict)
+[KAGGLE NOTEBOOK LINK 🔗.](https://www.kaggle.com/code/mfaiz51826/predictive-maintenance-analysis-failure-predict)
 
 ---
 
